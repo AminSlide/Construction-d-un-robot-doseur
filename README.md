@@ -7,6 +7,7 @@ Il s’agit de développer les parties matérielle et logicielle (IHM) d’un ro
 - Boissons tièdes ou chaudes, avec une température allant de : 20°C à 50°C,
 - Boissons de différentes concentrations allant de : 10% à 90%,
 - Boissons de différents volumes allant de : 50ml à 250ml (dans le gobelet).
+
 Le projet va se segmenter de la facon suivante :
 
 ![image](images/schema.png)
