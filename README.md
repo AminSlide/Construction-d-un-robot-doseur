@@ -16,4 +16,8 @@ On dispose de notre maquette qu'on peut voir ci dessous :
 
 ![image](images/maquette.png)
 
+Pour le protocole et la démarche adoptée pour faire ce robot, référez-vous au compte rendu.
+
+
+
 
