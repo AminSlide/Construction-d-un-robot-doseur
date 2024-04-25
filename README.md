@@ -15,3 +15,5 @@ On va compter 3 grandes parties dans ce projet qu'on peut voir dans le schéma s
 On dispose de notre maquette qu'on peut voir ci dessous :
 
 ![image](images/maquette.png)
+
+
