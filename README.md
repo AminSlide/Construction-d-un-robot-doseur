@@ -11,3 +11,7 @@ Il s’agit de développer les parties matérielle et logicielle (IHM) d’un ro
 On va compter 3 grandes parties dans ce projet qu'on peut voir dans le schéma suivant :
 
 ![image](images/schema.png)
+
+On dispose de notre maquette qu'on peut voir ci dessous :
+
+![image](images/maquette.png)
