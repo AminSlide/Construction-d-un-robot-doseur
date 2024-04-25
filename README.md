@@ -9,4 +9,4 @@ Il s’agit de développer les parties matérielle et logicielle (IHM) d’un ro
 - Boissons de différents volumes allant de : 50ml à 250ml (dans le gobelet).
 Le projet va se segmenter de la facon suivante :
 
-![image](image/schema.png)
+![image](images/schema.png)
