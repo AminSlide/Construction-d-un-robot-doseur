@@ -8,6 +8,6 @@ Il s’agit de développer les parties matérielle et logicielle (IHM) d’un ro
 - Boissons de différentes concentrations allant de : 10% à 90%,
 - Boissons de différents volumes allant de : 50ml à 250ml (dans le gobelet).
 
-Le projet va se segmenter de la facon suivante :
+On va compter 3 grandes parties dans ce projet qu'on peut voir dans le schéma suivant :
 
 ![image](images/schema.png)
